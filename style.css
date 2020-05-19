@@ -17,12 +17,12 @@ a {
   padding-right: 10px;
   background-color: lightgray;
 }
-figcaption {
+figcaption#featured-property {
   font-size: 15px;
   text-align: center;
 }
 
-#featured-property{
+p#featured-property{
   width: 800px;
   text-align: center;
   background: blue;
