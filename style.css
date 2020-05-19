@@ -17,7 +17,7 @@ a {
   padding-right: 10px;
   background-color: lightgray;
 }
-figure#featured-property {
+figcaption {
   font-size: 15px;
   text-align: center;
 }
